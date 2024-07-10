@@ -1,0 +1,62 @@
+.body {
+    background-image: linear-gradient(to right, blue, lightblue);
+}
+.login-container {
+    width: 100vh;
+    height: 100vh;
+    align-items: center;
+}
+.card-login {
+    height: 50vh;
+    width: 50vh;
+}
+
+.card-login-body {
+    align-content: center;
+}
+
+.login-button {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.section {
+    font-size: 2rem;
+    color: #555;
+}
+
+.image {
+    width: 200px;
+    height: 165px;
+}
+
+.title {
+    color: white;
+}
+
+.card-index {
+    background-color: #000;
+}
+
+.card-text-index{
+    color: white;
+    text-align: left;
+}
+
+.card-container {
+    margin: 10px;
+}
+
+.card-main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.section-title {
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+}
